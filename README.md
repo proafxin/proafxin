@@ -6,7 +6,7 @@
 
 -->
 
-- 🖥 I am working as senior data scientist at Ixora Solution Ltd.
+- 🖥 I am working as a freelance Python developer for Woven Alpha (https://www.woven-planet.global/en/woven-alpha), Toyota via Toptal (https://www.toptal.com/).
 - 🔭 I’m currently working on Dirichlet decomposition (you won't probably find it in google search because I defined it and it does not seem to be well established) and how to use it to estimate partial sum of multiplicative functions.
 - :book: I’m currently learning number theory, at the moment, Sieve Theory.
 - 📘I authored two books so far. Integer Sequences: Divisibility, Lucas and Lehmer Sequences - http://dx.doi.org/10.1007/978-981-16-0570-3 and Topics in Number Theory: An Olympiad Oriented Approach - https://www.researchgate.net/publication/361374774_TOPICS_IN_NUMBER_THEORY_An_Olympiad-Oriented_Approach 
